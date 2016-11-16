@@ -1,0 +1,31 @@
+{
+    "name": "@robindemourat/eslint-config",
+    "version": "3.0.0",
+    "description": "Just an eslint config.",
+    "main": "index.js",
+    "scripts": {
+        "test": "eslint -c ./es6.js *.js ./rules"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/robindemourat/eslint-config.git"
+    },
+    "keywords": [
+        "eslint",
+        "config",
+        "lint"
+    ],
+    "author": {
+        "name": "Robin de Mourat",
+        "url": "http://github.com/robindemourat"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/robindemourat/eslint-config/issues"
+    },
+    "homepage": "https://github.com/robindemourat/eslint-config#readme",
+    "devDependencies": {
+        "eslint": "^3.0.0",
+        "eslint-plugin-react": "^6.0.0"
+    }
+}
