@@ -5,7 +5,7 @@ Personal ESLint configuration.
 ## Installation
 
 ```bash
-npm install --save-dev @yomguithereal/eslint-config
+npm install --save-dev @robindemourat/eslint-config
 # Optionally (for ES7 & React)
 npm install --save-dev babel-eslint eslint-plugin-react
 ```
