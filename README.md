@@ -1,6 +1,6 @@
 # eslint-config
 
-Personal ESLint configuration.
+Personal ESLint configuration. Inspired by [yomguithereal's one](https://github.com/Yomguithereal/eslint-config)
 
 ## Installation
 
